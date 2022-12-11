@@ -4,7 +4,7 @@ Se analizan las medidas de  10 dispositivos conectados a tres ozm's
 
 No se tienen en cuenta los transitorios de tension corriente o potencia  dado que esta circunstancia se considerara en el septimo experimento
 
-Las medidas se realizaron el dia 22/7/2022 entre las 09:42 y las 11:44 
+Las medidas se realizaron el dia 22/7/2022 entre las 09:42 y las 11:44 en el laboratorio de Electrotecnia de la Escuela Politécnica Superior de la Universidad de Almeria.
 
 Los dispositivos analizados,  asi como su orden es el sieguiente:
 
